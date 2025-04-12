@@ -1,5 +1,60 @@
 ### <p align="center">Привет, меня зовут Рустам! 👋</p>
 
+* Занимаюсь аналитикой данных 📈
+* Готов к сотрудничеству 🤝
+
+#### Мои навыки:
+<ul>
+<li>Использую Python (pandas, numpy, seaborn, matplotlib) и Jupyter для работы с данными;
+<li>SQL для работы с СУБД (Joinы, сложные запросы, CTE, оконные функции) PostgreSQL;
+<li>Разрабатываю дэшборды в Tableau;
+<li>Занимаюсь продуктовой аналитикой, понимаю какой смысл несут за собой ключевые метрики продукта: ARPU, ARPPU, LTV, DAU, retention, conversion, churn rate и т.д;
+<li>Провожу и организовываю А/В тесты, применяя различные методы основанные на математической статистике;
+<li>Работаю над проектами в системе контроля версий git.
+</ul>
+
+## Мои проекты 👇:
+
+|Название проекта| Описание проекта| Стек|
+|----------------|-----------------|-----|
+|Проект 1  Название проекта  (__ссылка на проект__)|Описание работы. Что сделано.|Перечень технологий|
+
+
+
+
+###  🛠️ Languages and Tools :  
+
+**Data Science:**
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python"  alt="Python" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter"  alt="Jupyter" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas"  alt="Pandas" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy"  alt="Numpy" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original-wordmark.svg" title="Plotly"  alt="plotly" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL"  alt="PostgreSQL" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dbeaver/dbeaver-original.svg" title="Dbeaver"  alt="Dbeaver" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" alt="Github" width="40" height="40"/>
+</div>
+
+###  📈 Stats :  
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/Rustam_Salihov)
+
+
+
+
+
+<h3 align="center"> 📫 Связаться со мной:</h3>
+
+<div align="center">
+
+  <a href="">[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat)](https://t.me/Vorchuga)</a>
+  <a href="">[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat)](https://wa.me/9220733010)</a>
+  <a href="">[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat)](mailto:salihov.r.sh@gmail.com?cc=)</a>
+
+</div>
+
+
 <!--
 **RustamSalihov/RustamSalihov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,14 +69,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-
-<h4 align="center">Связаться со мной:</h4>
-<div align="center">
-
-  <a href="">[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat)](https://t.me/Vorchuga)</a>
-  <a href="">[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat)](https://wa.me/9220733010)</a>
-  <a href="">[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat)](mailto:salihov.r.sh@gmail.com?cc=)</a>  
-
-</div>
