@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 
   <a href="">[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat)](https://t.me/Vorchuga)</a>
   <a href="">[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat)](https://wa.me/9220733010)</a>
-  <a href="">[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat)](mailto:salihov.r.sh@gmail.com)</a>  
+  <a href="">[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat)](mailto:salihov.r.sh@gmail.com?cc=)</a>  
 
 </div>
